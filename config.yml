@@ -1,0 +1,20 @@
+appName: 'Sound analyzer'
+prediction_threshold: 0.5 # if probability predicted by system is higher than threshold - sound is considered as explosion/gunshot
+explosion_cache_lifetime_ms: 5000 # how long after explosion item would live in cache (i.e. wait for explosions in other points)
+zoneinfo:
+  longitudinal_index: 37 # use UTM grid to set this values for your geographical zone
+  latitudinal_letter: 'U'
+endpoints:
+  - url: './input/explosions.wav'
+    lat: -2.2
+    lng: 0
+  - url: './input/explosions.wav'
+    lat: 0
+    lng: 0
+  - url: './input/explosions.wav'
+    lat: 3.7
+    lng: 0
+packet_size: 1024 # determines chunk duration = packet_size / (sample_rate * 4)
+sample_rate: 48000 # Hz
+model_id: 12
+labels_path: artifacts/ground truths/2nd batch.json

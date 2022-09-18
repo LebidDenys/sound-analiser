@@ -1,0 +1,1 @@
+mean,diff,std,kurtosis_,median_abs_deviation_,max_deviation,centroids_ptp,centroids_mean,centroids_std,sp_bandwidth_ptp,sp_bandwidth_mean,sp_bandwidth_std,abs_mean,p_t_p

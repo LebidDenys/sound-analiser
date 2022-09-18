@@ -1,0 +1,550 @@
+2022-07-18 17:48:09,849:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results6.csv,
+cols path - ./artifacts/columns/xgb6.txt,
+ model path - ./artifacts/models/xgb6.pkl
+2022-07-18 17:48:44,113:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:48:48,588:INFO:root:Starting streams
+2022-07-18 17:48:48,589:INFO:root:Starting stream from url ./input/ЛЕВЫЙ.wav
+2022-07-18 17:50:04,694:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:50:08,236:INFO:root:Starting streams
+2022-07-18 17:50:08,238:INFO:root:Starting stream from url ./input/ЛЕВЫЙ.wav
+2022-07-18 17:50:38,720:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:50:38,725:INFO:root:Starting streams
+2022-07-18 17:50:38,726:INFO:root:Starting stream from url ./input/explosions.wav
+2022-07-18 17:52:48,505:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:52:48,538:INFO:root:Starting streams
+2022-07-18 17:52:48,539:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 17:55:59,752:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:55:59,778:INFO:root:Starting streams
+2022-07-18 17:55:59,790:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 17:57:40,321:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:57:40,363:INFO:root:Starting streams
+2022-07-18 17:57:40,364:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 17:58:56,407:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 17:58:56,450:INFO:root:Starting streams
+2022-07-18 17:58:56,450:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 18:01:56,492:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 18:01:56,570:INFO:root:Starting streams
+2022-07-18 18:01:56,571:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 18:03:17,877:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 18:03:17,882:INFO:root:Starting streams
+2022-07-18 18:03:17,882:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 18:04:58,048:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 18:04:58,053:INFO:root:Starting streams
+2022-07-18 18:05:24,092:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 18:06:55,790:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 18:06:55,803:INFO:root:Starting streams
+2022-07-18 18:06:59,840:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 21:55:30,395:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 21:55:30,444:INFO:root:Starting streams
+2022-07-18 21:55:30,499:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 21:55:30,501:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 21:55:30,508:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 21:57:55,878:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 21:57:55,882:INFO:root:Starting streams
+2022-07-18 21:58:31,883:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 21:58:31,888:INFO:root:Starting streams
+2022-07-18 22:04:08,550:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:04:08,557:INFO:root:Starting streams
+2022-07-18 22:04:11,584:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:04:14,139:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:04:16,281:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:05:57,504:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:05:57,508:INFO:root:Starting streams
+2022-07-18 22:06:02,938:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:06:02,939:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:06:02,939:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:12:49,629:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:12:49,634:INFO:root:Starting streams
+2022-07-18 22:12:49,645:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:12:49,650:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:12:49,652:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:16:05,884:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:16:05,888:INFO:root:Starting streams
+2022-07-18 22:16:05,900:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:16:05,904:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:16:05,910:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:23:08,699:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:23:08,703:INFO:root:Starting streams
+2022-07-18 22:23:08,714:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:23:08,719:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:23:08,720:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:31:12,972:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-18 22:31:12,975:INFO:root:Starting streams
+2022-07-18 22:31:12,987:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:31:12,988:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-18 22:31:12,994:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 13:16:40,345:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 13:17:26,062:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 13:17:26,067:INFO:root:Starting streams
+2022-07-20 13:17:26,083:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 13:17:26,091:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 13:17:26,107:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:33:38,324:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 14:33:38,329:INFO:root:Starting streams
+2022-07-20 14:33:38,345:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:33:38,352:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:33:38,355:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:45:23,022:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 14:45:23,026:INFO:root:Starting streams
+2022-07-20 14:45:23,038:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:45:23,044:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:45:23,050:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:46:03,605:INFO:root:Possible explosion detected! Coordinates: X - 2.430735542169816, Y - 2.6003775133532803
+2022-07-20 14:46:29,190:INFO:root:Possible explosion detected! Coordinates: X - -5.4652980221210425, Y - -6.231776667596713
+2022-07-20 14:46:29,192:INFO:root:Possible explosion detected! Coordinates: X - 11.583725311159236, Y - 12.608083632964599
+2022-07-20 14:47:01,742:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 14:47:01,747:INFO:root:Starting streams
+2022-07-20 14:47:01,764:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:47:01,765:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:47:01,793:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:48:04,572:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 14:48:04,576:INFO:root:Starting streams
+2022-07-20 14:48:04,589:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:48:04,590:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 14:48:04,592:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:08:00,128:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:08:00,139:INFO:root:Starting streams
+2022-07-20 15:08:00,153:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:08:00,154:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:08:00,154:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:15:12,982:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:15:12,993:INFO:root:Starting streams
+2022-07-20 15:15:13,010:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:15:13,011:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:15:13,019:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:18:03,480:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:18:03,484:INFO:root:Starting streams
+2022-07-20 15:18:03,495:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:18:03,500:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:18:03,502:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:38:50,810:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:38:50,819:INFO:root:Starting streams
+2022-07-20 15:38:50,831:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:38:50,832:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:38:50,841:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:39:59,554:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:39:59,586:INFO:root:Starting streams
+2022-07-20 15:39:59,598:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:39:59,599:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:39:59,606:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:41:57,763:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:41:57,766:INFO:root:Starting streams
+2022-07-20 15:41:57,777:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:41:57,782:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:41:57,787:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:44:55,801:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:44:55,805:INFO:root:Starting streams
+2022-07-20 15:44:55,815:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:44:55,820:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:44:55,825:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:53:48,895:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:53:48,898:INFO:root:Starting streams
+2022-07-20 15:53:48,910:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:53:48,916:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:53:48,917:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:57:12,317:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 15:57:12,364:INFO:root:Starting streams
+2022-07-20 15:57:12,395:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:57:12,403:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 15:57:12,405:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:02:04,208:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 16:02:04,238:INFO:root:Starting streams
+2022-07-20 16:02:04,260:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:02:04,260:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:02:04,270:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:02:25,504:INFO:root:Possible explosion detected! Coordinates: X - 191.66084783572663, Y - 191.83581496245208
+2022-07-20 16:02:25,506:INFO:root:Possible explosion detected! Coordinates: X - 191.66084783572663, Y - 191.83581496245208
+2022-07-20 16:04:03,690:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 16:04:03,693:INFO:root:Starting streams
+2022-07-20 16:04:03,703:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:04:03,708:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:04:03,709:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:06:40,415:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results6.csv,
+cols path - ./../artifacts/columns/xgb6.txt,
+ model path - ./../artifacts/models/xgb6.pkl
+2022-07-20 16:06:40,419:INFO:root:Starting streams
+2022-07-20 16:06:40,430:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:06:40,436:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-07-20 16:06:40,442:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:17:08,139:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:22:15,611:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:22:56,094:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:23:45,863:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:24:27,741:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:26:28,545:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:26:54,398:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:26:54,434:INFO:root:Starting streams
+2022-08-13 18:26:54,554:INFO:root:Starting stream from url ./input/ЦЕНТР (48-24).wav
+2022-08-13 18:26:54,554:INFO:root:Starting stream from url ./input/ЛЕВЫЙ.wav
+2022-08-13 18:26:54,559:INFO:root:Starting stream from url ./input/ПРАВЫЙ.wav
+2022-08-13 18:27:38,305:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:27:38,325:INFO:root:Starting streams
+2022-08-13 18:27:38,444:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:27:38,444:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:27:38,448:INFO:root:Starting stream from url /../input/ПРАВЫЙ.wav
+2022-08-13 18:29:51,471:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:29:51,493:INFO:root:Starting streams
+2022-08-13 18:29:51,610:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:29:51,615:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:29:51,621:INFO:root:Starting stream from url /../input/ПРАВЫЙ.wav
+2022-08-13 18:30:25,590:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:30:25,610:INFO:root:Starting streams
+2022-08-13 18:30:25,728:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:30:25,728:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:30:25,737:INFO:root:Starting stream from url /../input/ПРАВЫЙ.wav
+2022-08-13 18:30:53,720:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:30:53,755:INFO:root:Starting streams
+2022-08-13 18:30:53,866:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:30:53,871:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:30:53,880:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:32:11,568:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:32:11,586:INFO:root:Starting streams
+2022-08-13 18:32:11,706:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:32:11,709:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:32:11,715:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:33:09,302:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:33:09,328:INFO:root:Starting streams
+2022-08-13 18:33:09,445:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:33:09,447:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:33:09,462:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:35:19,575:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:35:19,618:INFO:root:Starting streams
+2022-08-13 18:35:19,737:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:35:19,737:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:35:19,746:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:37:12,988:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:37:13,010:INFO:root:Starting streams
+2022-08-13 18:37:13,011:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:37:13,019:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:37:13,029:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:37:56,747:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:37:56,778:INFO:root:Starting streams
+2022-08-13 18:37:56,779:INFO:root:Starting stream from url ./../input/ЛЕВЫЙ.wav
+2022-08-13 18:37:56,786:INFO:root:Starting stream from url ./../input/ЦЕНТР (48-24).wav
+2022-08-13 18:37:56,794:INFO:root:Starting stream from url ./../input/ПРАВЫЙ.wav
+2022-08-13 18:40:17,291:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:40:17,332:INFO:root:Starting streams
+2022-08-13 18:40:17,451:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:40:17,457:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:40:17,473:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:18,400:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:41:18,435:INFO:root:Starting streams
+2022-08-13 18:41:18,553:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:18,560:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:18,570:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:27,719:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:41:27,746:INFO:root:Starting streams
+2022-08-13 18:41:27,864:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:27,867:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:27,874:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:46,398:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:41:46,432:INFO:root:Starting streams
+2022-08-13 18:41:46,550:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:46,553:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:41:46,564:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:42:09,921:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:42:09,946:INFO:root:Starting streams
+2022-08-13 18:42:13,705:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:42:20,441:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:42:24,100:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:10,775:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:43:10,808:INFO:root:Starting streams
+2022-08-13 18:43:12,967:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:14,822:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:17,882:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:44,011:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:43:44,038:INFO:root:Starting streams
+2022-08-13 18:43:46,976:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:49,276:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:43:51,495:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:51:02,284:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:51:02,324:INFO:root:Starting streams
+2022-08-13 18:57:32,926:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:57:32,962:INFO:root:Starting streams
+2022-08-13 18:57:32,976:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:57:32,976:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:57:32,988:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:07,101:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:58:07,126:INFO:root:Starting streams
+2022-08-13 18:58:07,137:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:07,145:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:07,147:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:57,086:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 18:58:57,109:INFO:root:Starting streams
+2022-08-13 18:58:57,122:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:57,123:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 18:58:57,123:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:03,071:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 19:00:03,110:INFO:root:Starting streams
+2022-08-13 19:00:03,112:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:03,120:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:03,122:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:28,127:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 19:00:28,151:INFO:root:Starting streams
+2022-08-13 19:00:28,164:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:28,166:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:00:28,171:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:01:20,782:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 19:01:20,810:INFO:root:Starting streams
+2022-08-13 19:01:20,811:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:01:20,819:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:01:20,821:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:03:17,691:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./../output/results12.csv,
+cols path - ./../artifacts/columns/xgb12.txt,
+ model path - ./../artifacts/models/xgb12.pkl
+2022-08-13 19:03:17,731:INFO:root:Starting streams
+2022-08-13 19:03:28,732:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:03:31,996:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:03:34,634:INFO:root:Starting stream from url ./../input/explosions.wav
+2022-08-13 19:44:10,585:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:44:10,613:INFO:root:Starting streams
+2022-08-13 19:44:10,624:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:44:10,625:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:44:10,635:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:47:25,379:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:47:25,408:INFO:root:Starting streams
+2022-08-13 19:47:25,408:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:47:25,413:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:47:25,419:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:50:26,174:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:50:26,213:INFO:root:Starting streams
+2022-08-13 19:50:26,214:INFO:root:Starting stream from url ./input/explosion.wav
+2022-08-13 19:50:26,215:INFO:root:Starting stream from url ./input/explosion.wav
+2022-08-13 19:50:26,218:INFO:root:Starting stream from url ./input/explosion.wav
+2022-08-13 19:50:50,646:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:50:50,668:INFO:root:Starting streams
+2022-08-13 19:50:50,683:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:50:50,683:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:50:50,684:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:53:57,090:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:53:57,126:INFO:root:Starting streams
+2022-08-13 19:53:57,127:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:53:57,131:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:53:57,141:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:54:22,307:INFO:root:Application starting in predict mode.
+ Config values, model output path - ./output/results12.csv,
+cols path - ./artifacts/columns/xgb12.txt,
+ model path - ./artifacts/models/xgb12.pkl
+2022-08-13 19:54:22,321:INFO:root:Starting streams
+2022-08-13 19:54:22,336:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:54:22,342:INFO:root:Starting stream from url ./input/explosions.wav
+2022-08-13 19:54:22,349:INFO:root:Starting stream from url ./input/explosions.wav

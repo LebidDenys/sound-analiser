@@ -1,0 +1,1 @@
+maxVal,std,skewness,kurtosis_,max_deviation,centroids_ptp,centroids_mean,centroids_std,centroids_kurt,centroids_skew,sp_bandwidth_ptp,sp_bandwidth_mean,sp_bandwidth_std,sp_bandwidth_skew,fft_1,rms,p_t_p,crest_f

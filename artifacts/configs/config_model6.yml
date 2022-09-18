@@ -1,0 +1,18 @@
+appName: 'Sound analyzer'
+prediction_threshold: 0.7 # if probability predicted by system is higher than threshold - sound is considered as explosion/gunshot
+explosion_cache_lifetime_ms: 2000 # how long after explosion item would live in cache (i.e. wait for explosions in other points)
+endpoints:
+  - url: './input/explosions.wav'
+    x: 'x1'
+    y: 'y1'
+  - url: './input/explosions.wav'
+    x: 'x2'
+    y: 'y2'
+  - url: './input/explosions.wav'
+    x: 'x3'
+    y: 'y3'
+packet_size: 262144 # determines chunk duration = packet_size / (sample_rate * 4)
+sample_rate: 44100 # Hz
+model_id: 6
+labels_path: artifacts/ground truths/exp.json
+

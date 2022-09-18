@@ -1,0 +1,362 @@
+[
+  {
+    "assigned_user": {
+      "id": 1,
+      "role": "admin",
+      "username": "admin"
+    },
+    "created_at": "Mon, 13 Jun 2022 17:24:32 GMT",
+    "filename": "d1a2ac3f89e04671b88414139104db84.wav",
+    "is_marked_for_review": false,
+    "last_modified": "Mon, 13 Jun 2022 18:16:59 GMT",
+    "original_filename": "explosions.wav",
+    "reference_transcription": null,
+    "segmentations": [
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:10:55 GMT",
+        "end_time": 265.589,
+        "last_modified": "Mon, 13 Jun 2022 18:11:09 GMT",
+        "start_time": 263.619,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:15 GMT",
+        "end_time": 257.509,
+        "last_modified": "Mon, 13 Jun 2022 18:11:15 GMT",
+        "start_time": 256.889,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:19 GMT",
+        "end_time": 253.829,
+        "last_modified": "Mon, 13 Jun 2022 18:11:19 GMT",
+        "start_time": 252.989,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:22 GMT",
+        "end_time": 251.841,
+        "last_modified": "Mon, 13 Jun 2022 18:11:22 GMT",
+        "start_time": 251.041,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:26 GMT",
+        "end_time": 250.791,
+        "last_modified": "Mon, 13 Jun 2022 18:11:26 GMT",
+        "start_time": 250.111,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:29 GMT",
+        "end_time": 249.002,
+        "last_modified": "Mon, 13 Jun 2022 18:11:29 GMT",
+        "start_time": 248.332,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:31 GMT",
+        "end_time": 247.972,
+        "last_modified": "Mon, 13 Jun 2022 18:11:31 GMT",
+        "start_time": 247.292,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:34 GMT",
+        "end_time": 246.882,
+        "last_modified": "Mon, 13 Jun 2022 18:11:34 GMT",
+        "start_time": 245.862,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:37 GMT",
+        "end_time": 244.192,
+        "last_modified": "Mon, 13 Jun 2022 18:11:37 GMT",
+        "start_time": 242.882,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:39 GMT",
+        "end_time": 242.461,
+        "last_modified": "Mon, 13 Jun 2022 18:11:39 GMT",
+        "start_time": 241.711,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:43 GMT",
+        "end_time": 240.609,
+        "last_modified": "Mon, 13 Jun 2022 18:11:43 GMT",
+        "start_time": 239.929,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:11:48 GMT",
+        "end_time": 239.152,
+        "last_modified": "Mon, 13 Jun 2022 18:12:02 GMT",
+        "start_time": 238.452,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:07 GMT",
+        "end_time": 238.223,
+        "last_modified": "Mon, 13 Jun 2022 18:12:07 GMT",
+        "start_time": 237.383,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:11 GMT",
+        "end_time": 236.214,
+        "last_modified": "Mon, 13 Jun 2022 18:12:11 GMT",
+        "start_time": 235.824,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:14 GMT",
+        "end_time": 235.121,
+        "last_modified": "Mon, 13 Jun 2022 18:12:14 GMT",
+        "start_time": 234.161,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:19 GMT",
+        "end_time": 231.889,
+        "last_modified": "Mon, 13 Jun 2022 18:12:19 GMT",
+        "start_time": 231.469,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:21 GMT",
+        "end_time": 230.849,
+        "last_modified": "Mon, 13 Jun 2022 18:12:21 GMT",
+        "start_time": 230.129,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:27 GMT",
+        "end_time": 229.679,
+        "last_modified": "Mon, 13 Jun 2022 18:12:27 GMT",
+        "start_time": 229.129,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:30 GMT",
+        "end_time": 228.544,
+        "last_modified": "Mon, 13 Jun 2022 18:12:30 GMT",
+        "start_time": 227.934,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:33 GMT",
+        "end_time": 227.482,
+        "last_modified": "Mon, 13 Jun 2022 18:12:33 GMT",
+        "start_time": 226.852,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:35 GMT",
+        "end_time": 226.419,
+        "last_modified": "Mon, 13 Jun 2022 18:12:35 GMT",
+        "start_time": 225.129,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:37 GMT",
+        "end_time": 223.452,
+        "last_modified": "Mon, 13 Jun 2022 18:12:37 GMT",
+        "start_time": 223.002,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:40 GMT",
+        "end_time": 221.739,
+        "last_modified": "Mon, 13 Jun 2022 18:12:40 GMT",
+        "start_time": 220.879,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:42 GMT",
+        "end_time": 219.874,
+        "last_modified": "Mon, 13 Jun 2022 18:12:42 GMT",
+        "start_time": 218.363,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:54 GMT",
+        "end_time": 214.001,
+        "last_modified": "Mon, 13 Jun 2022 18:12:54 GMT",
+        "start_time": 212.911,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:12:57 GMT",
+        "end_time": 207.561,
+        "last_modified": "Mon, 13 Jun 2022 18:12:57 GMT",
+        "start_time": 206.281,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:01 GMT",
+        "end_time": 202.933,
+        "last_modified": "Mon, 13 Jun 2022 18:13:01 GMT",
+        "start_time": 202.043,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:13 GMT",
+        "end_time": 194.77,
+        "last_modified": "Mon, 13 Jun 2022 18:13:13 GMT",
+        "start_time": 193.861,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:16 GMT",
+        "end_time": 197.989,
+        "last_modified": "Mon, 13 Jun 2022 18:13:16 GMT",
+        "start_time": 197.179,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:25 GMT",
+        "end_time": 189.84,
+        "last_modified": "Mon, 13 Jun 2022 18:13:25 GMT",
+        "start_time": 188.781,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:33 GMT",
+        "end_time": 184.042,
+        "last_modified": "Mon, 13 Jun 2022 18:13:33 GMT",
+        "start_time": 182.842,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:37 GMT",
+        "end_time": 179.4,
+        "last_modified": "Mon, 13 Jun 2022 18:13:37 GMT",
+        "start_time": 178.43,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:42 GMT",
+        "end_time": 174.949,
+        "last_modified": "Mon, 13 Jun 2022 18:13:42 GMT",
+        "start_time": 174.049,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:45 GMT",
+        "end_time": 170.929,
+        "last_modified": "Mon, 13 Jun 2022 18:13:45 GMT",
+        "start_time": 169.569,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:50 GMT",
+        "end_time": 139.392,
+        "last_modified": "Mon, 13 Jun 2022 18:13:50 GMT",
+        "start_time": 137.442,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:13:54 GMT",
+        "end_time": 135.929,
+        "last_modified": "Mon, 13 Jun 2022 18:13:54 GMT",
+        "start_time": 135.419,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:14:33 GMT",
+        "end_time": 132.009,
+        "last_modified": "Mon, 13 Jun 2022 18:14:33 GMT",
+        "start_time": 131.399,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:14:38 GMT",
+        "end_time": 112.672,
+        "last_modified": "Mon, 13 Jun 2022 18:14:48 GMT",
+        "start_time": 112.052,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:14:53 GMT",
+        "end_time": 84.6717,
+        "last_modified": "Mon, 13 Jun 2022 18:14:53 GMT",
+        "start_time": 83.2417,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:14:57 GMT",
+        "end_time": 67.773,
+        "last_modified": "Mon, 13 Jun 2022 18:15:13 GMT",
+        "start_time": 65.703,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:15:20 GMT",
+        "end_time": 48.3801,
+        "last_modified": "Mon, 13 Jun 2022 18:15:20 GMT",
+        "start_time": 45.5901,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:15:28 GMT",
+        "end_time": 29.3115,
+        "last_modified": "Mon, 13 Jun 2022 18:15:28 GMT",
+        "start_time": 26.4815,
+        "transcription": "1"
+      },
+      {
+        "annotations": {},
+        "created_at": "Mon, 13 Jun 2022 18:15:35 GMT",
+        "end_time": 16.5815,
+        "last_modified": "Mon, 13 Jun 2022 18:15:35 GMT",
+        "start_time": 13.1915,
+        "transcription": "1"
+      }
+    ],
+    "url": "/audios/d1a2ac3f89e04671b88414139104db84.wav"
+  }
+]

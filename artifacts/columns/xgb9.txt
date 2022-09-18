@@ -1,0 +1,1 @@
+maxVal,diff,std,median_abs_deviation_,max_deviation,centroids_skew,sp_bandwidth_mean,fft_3,abs_mean,rms,crest_f,start_time
